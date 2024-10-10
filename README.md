@@ -19,30 +19,29 @@ The dataset consists of daily sales records from the coffee shop with the follow
 - product_detail: Detailed description or name of the product.
 
 # Approach
-Data Cleaning: The dataset was cleaned to remove any inconsistencies, such as missing data and duplicate records.
-Data Aggregation: Sales data was aggregated on different levels (daily, weekly, monthly) to spot trends and patterns.
-Visualization: The data was visualized using pivot tables, pivot charts, and other visual tools in Excel, focusing on key performance metrics like:
-Total Sales per Day/Week/Month
-Product Category Performance
-Top 5 Products by Sales
-Sales Trends Over Time
-Customer Segmentation (if available)
-Interactivity: Filters and slicers were added to the dashboard, allowing users to interact with the data and generate custom reports based on specific time periods or product categories.
+- Data Cleaning: The dataset was cleaned to remove any inconsistencies, such as missing data and duplicate records.
+- Data Aggregation: Sales data was aggregated on different levels (daily, weekly, monthly) to spot trends and patterns.
+- Visualization: The data was visualized using pivot tables, pivot charts, and other visual tools in Excel, focusing on key performance metrics like:
+- Total Sales per Day/Week/Month
+- Product Category Performance
+- Top 5 Products by Sales
+- Sales Trends Over Time
+- Interactivity: Filters and slicers were added to the dashboard, allowing users to interact with the data and generate custom reports based on specific time periods or product categories.
 
 # Results
-The dashboard provides actionable insights into:
-Best-Selling Products: A clear view of top-performing items, helping the business optimize inventory.
-Sales Peaks and Trends: Identifying the best and worst performing time periods, which can help optimize staffing and promotions.
-Category Performance: Visual breakdown of which categories (e.g., beverages, food items) are contributing the most to revenue.
+- The dashboard provides actionable insights into:
+- Best-Selling Products: A clear view of top-performing items, helping the business optimize inventory.
+- Sales Peaks and Trends: Identifying the best and worst performing time periods, which can help optimize staffing and promotions.
+- Category Performance: Visual breakdown of which categories (e.g., beverages, food items) are contributing the most to revenue.
 
 # Outputs
-The dashboard includes the following key charts:
-Quantity Orders Based on Hours: Shows the distribution of orders throughout the day, highlighting peak times.
-Categories % Distribution Based on Sales: Visualizes the percentage contribution of different product categories (e.g., beverages, bakery items) to overall sales.
-Order Size % Distribution: Analyzes the size of customer orders and their frequency.
-Footfall and Sales Over Various Store Locations: Compares the number of customers and total sales across different store locations, offering insights into location-based performance.
-Top 5 Products Based on Sales: Highlights the best-selling products, helping to focus inventory and promotions.
-Orders on Weekdays: Shows the distribution of orders throughout the week, helping to identify the busiest and slowest days.
+- The dashboard includes the following key charts:
+- Quantity Orders Based on Hours: Shows the distribution of orders throughout the day, highlighting peak times.
+- Categories % Distribution Based on Sales: Visualizes the percentage contribution of different product categories (e.g., beverages, bakery items) to overall sales.
+- Order Size % Distribution: Analyzes the size of customer orders and their frequency.
+- Footfall and Sales Over Various Store Locations: Compares the number of customers and total sales across different store locations, offering insights into location-based performance.
+- Top 5 Products Based on Sales: Highlights the best-selling products, helping to focus inventory and promotions.
+- Orders on Weekdays: Shows the distribution of orders throughout the week, helping to identify the busiest and slowest days.
 
 # Conclusion
 This dashboard helps the coffee shop management quickly assess their sales performance and make informed decisions. It offers valuable insights into product trends, customer preferences, and revenue-driving time periods. The project can be extended by incorporating more advanced analytical models like time series forecasting to predict future sales or clustering techniques for customer segmentation.
