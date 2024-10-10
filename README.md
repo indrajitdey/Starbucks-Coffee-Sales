@@ -4,6 +4,9 @@ This project involves creating an interactive Excel dashboard to analyze the sal
 # Problem Statement
 Managing sales efficiently is crucial for any business, especially in a competitive space like the coffee shop industry. Identifying trends, peak sales times, and top-performing products can enhance operations, optimize inventory, and increase profits. This dashboard aims to provide an easy-to-understand visualization of the shop's sales data, helping to identify areas for growth and improvement.
 
+# Dashboard
+![ScreenShot](https://github.com/user-attachments/assets/f0f054d1-85c6-4798-8a00-0899ea0f6a2a)
+
 # Data Overview
 The dataset consists of daily sales records from the coffee shop with the following columns:
 - transaction_id: Unique identifier for each transaction.
