@@ -6,18 +6,17 @@ Managing sales efficiently is crucial for any business, especially in a competit
 
 # Data Overview
 The dataset consists of daily sales records from the coffee shop with the following columns:
-
-transaction_id: Unique identifier for each transaction.
-transaction_date: Date when the transaction occurred.
-transaction_time: Time of the transaction.
-transaction_qty: Number of units sold in the transaction.
-store_id: Unique identifier for each store location.
-store_location: Name or description of the store location.
-product_id: Unique identifier for the product sold.
-unit_price: Price per unit of the product sold.
-product_category: Category the product belongs to (e.g., beverages, bakery items).
-product_type: Type of product (e.g., coffee, sandwich).
-product_detail: Detailed description or name of the product.
+- transaction_id: Unique identifier for each transaction.
+- transaction_date: Date when the transaction occurred.
+- transaction_time: Time of the transaction.
+- transaction_qty: Number of units sold in the transaction.
+- store_id: Unique identifier for each store location.
+- store_location: Name or description of the store location.
+- product_id: Unique identifier for the product sold.
+- unit_price: Price per unit of the product sold.
+- product_category: Category the product belongs to (e.g., beverages, bakery items).
+- product_type: Type of product (e.g., coffee, sandwich).
+- product_detail: Detailed description or name of the product.
 
 # Approach
 Data Cleaning: The dataset was cleaned to remove any inconsistencies, such as missing data and duplicate records.
